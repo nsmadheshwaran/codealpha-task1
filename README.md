@@ -1,0 +1,2 @@
+# codealpha-task1
+This repository contains my CodeAlpha internship task project built using HTML, CSS, and JavaScript.
